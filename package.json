@@ -1,0 +1,22 @@
+{
+    "author": "Mateusz Charytoniuk <mateusz.charytoniuk@gmail.com>",
+    "dependencies": {
+    },
+    "description": "Shareable eslint config with goreutils conventions.",
+    "devDependencies": {
+    },
+    "engines": {
+        "node": ">=0.10"
+    },
+    "keywords": [
+        "eslint",
+        "config"
+    ],
+    "main": "eslint-config-goreutils",
+    "name": "eslint-config-goreutils",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:goreutils/eslint-config-goreutils.git"
+    },
+    "version": "0.1.0"
+}
