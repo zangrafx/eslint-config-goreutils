@@ -1,9 +1,5 @@
 {
     "author": "Mateusz Charytoniuk <mateusz.charytoniuk@gmail.com>",
-    "dependencies": {
-        "babel-eslint": "3.x",
-        "eslint-plugin-react": "2.x"
-    },
     "description": "Shareable eslint config with goreutils conventions.",
     "engines": {
         "node": ">=0.10"
@@ -14,9 +10,13 @@
     ],
     "main": "eslint-config-goreutils",
     "name": "eslint-config-goreutils",
+    "peerDependencies": {
+        "babel-eslint": "3.x",
+        "eslint-plugin-react": "2.x"
+    },
     "repository": {
         "type": "git",
         "url": "git@github.com:goreutils/eslint-config-goreutils.git"
     },
-    "version": "0.1.1"
+    "version": "0.1.2"
 }
