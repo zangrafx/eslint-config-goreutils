@@ -26,6 +26,7 @@
         "react"
     ],
     "rules": {
+        "array-bracket-spacing": [2, "never"],
         "block-scoped-var": 0,
         "brace-style": 2,
         "camelcase": 2,
@@ -80,6 +81,7 @@
         "no-extra-bind": 2,
         "no-extra-boolean-cast": 2,
         "no-extra-parens": 0,
+        "no-extra-parens": 1,
         "no-extra-semi": 2,
         "no-fallthrough": 2,
         "no-floating-decimal": 2,
@@ -144,7 +146,6 @@
         "no-void": 0,
         "no-warning-comments": 0,
         "no-with": 2,
-        "no-extra-parens": 1,
         "one-var": 0,
         "operator-assignment": 2,
         "padded-blocks": 0,
@@ -174,7 +175,6 @@
         "space-after-keywords": 2,
         "space-before-blocks": 2,
         "space-before-function-paren": [2, {"anonymous": "always", "named": "never"}],
-        "array-bracket-spacing": [2, "never"],
         "space-in-parens": [2, "never"],
         "space-infix-ops": 1,
         "space-return-throw-case": 2,
