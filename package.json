@@ -11,8 +11,8 @@
     "main": "eslint-config-goreutils",
     "name": "eslint-config-goreutils",
     "peerDependencies": {
-        "babel-eslint": "3.x",
-        "eslint-plugin-react": "2.x"
+        "babel-eslint": "4.x",
+        "eslint-plugin-react": "3.x"
     },
     "repository": {
         "type": "git",
