@@ -46,7 +46,7 @@
         "generator-star-spacing": 0,
         "guard-for-in": 2,
         "handle-callback-err": 1,
-        "indent": 2,
+        "indent": [2, 4, {"SwitchCase": 1}],
         "key-spacing": 2,
         "max-depth": 0,
         "max-len": 0,
